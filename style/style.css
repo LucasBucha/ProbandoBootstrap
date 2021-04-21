@@ -1,0 +1,62 @@
+.nav-link
+{
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+body
+{
+	width: 100%;
+	font-family: verdana;
+	color: white;
+	background-color: #1C1C1A;
+	position: absolute;
+	text-align: center;
+}
+
+h1 
+{
+  text-transform: uppercase;
+  text-align: center;
+  border: 5px solid white;
+  color: white;
+  padding: 3px 10px;
+  display: inline-block;
+  cursor:pointer;
+}
+
+main
+{
+	width: 80%;
+	float: right;
+}
+
+aside 
+{
+	margin-top: 72px;
+	width: 20%;
+	float:left;
+}
+
+table
+{
+	width: 100%;
+	border-style: solid;
+}
+
+#tab-aside
+{
+	height: 261px;
+}
+
+h2
+{
+	border: solid;
+}
+
+aside article table thead, tbody, th, td
+{
+	border:solid;
+	font-style: italic;
+}
